@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "bakery",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 2018331249, "name": "Хлебная усадьба", "shop": "bakery" }, "geometry": { "type": "Point", "coordinates": [ 30.0662668, 59.3550597 ] } },
+{ "type": "Feature", "properties": { "element_type": null, "osmid": null, "name": "Хлебная усадьба", "shop": null }, "geometry": { "type": "Point", "coordinates": [ 30.139681165588676, 59.391533991593924 ] } },
+{ "type": "Feature", "properties": { "element_type": null, "osmid": null, "name": "Хлебник", "shop": null }, "geometry": { "type": "Point", "coordinates": [ 30.06484068457867, 59.355963248447658 ] } },
+{ "type": "Feature", "properties": { "element_type": null, "osmid": null, "name": null, "shop": null }, "geometry": { "type": "Point", "coordinates": [ 30.043467513733894, 59.355923505397065 ] } },
+{ "type": "Feature", "properties": { "element_type": null, "osmid": null, "name": null, "shop": null }, "geometry": { "type": "Point", "coordinates": [ 30.046554220678953, 59.354842761423733 ] } },
+{ "type": "Feature", "properties": { "element_type": null, "osmid": null, "name": null, "shop": null }, "geometry": { "type": "Point", "coordinates": [ 30.040270567255089, 59.353975889740248 ] } },
+{ "type": "Feature", "properties": { "element_type": null, "osmid": null, "name": null, "shop": null }, "geometry": { "type": "Point", "coordinates": [ 30.051625239231534, 59.357938550384183 ] } },
+{ "type": "Feature", "properties": { "element_type": null, "osmid": null, "name": null, "shop": null }, "geometry": { "type": "Point", "coordinates": [ 30.049574783903751, 59.357308158151632 ] } }
+]
+}
